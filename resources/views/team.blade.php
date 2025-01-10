@@ -161,6 +161,9 @@
             <div class="col-xl-2 col-md-4 col-sm-6">
                 <a href="#" class="sponsor-single"><img src="assets/images/brands/7.png" alt="sponsor" width="100px"></a>
             </div>
+            <div class="col-xl-2 col-md-4 col-sm-6">
+                <a href="#" class="sponsor-single"><img src="assets/images/brands/8.png" alt="sponsor" width="100px"></a>
+            </div>
         </div>
     </div>
 </div>
