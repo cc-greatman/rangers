@@ -23,13 +23,13 @@
                 <a href="#" class="sponsor-single"><img src="{{ asset("assets/images/brands/4.png") }}" alt="sponsor" width="100px"></a>
             </div>
             <div class="col-xl-2 col-md-4 col-sm-6">
-                <a href="#" class="sponsor-single"><img src="{{ asset("assets/images/brands/3.png") }}" alt="sponsor" width="100px"></a>
+                <a href="#" class="sponsor-single"><img src="{{ asset("assets/images/brands/3.png") }}" alt="sponsor" width="110px"></a>
             </div>
             <div class="col-xl-2 col-md-4 col-sm-6">
-                <a href="#" class="sponsor-single"><img src="{{ asset("assets/images/brands/7.png") }}" alt="sponsor" width="100px"></a>
+                <a href="#" class="sponsor-single"><img src="{{ asset("assets/images/brands/7.png") }}" alt="sponsor" width="70px"></a>
             </div>
             <div class="col-xl-2 col-md-4 col-sm-6">
-                <a href="#" class="sponsor-single"><img src="{{ asset("assets/images/brands/3.png") }}" alt="sponsor" width="100px"></a>
+                <a href="#" class="sponsor-single"><img src="{{ asset("assets/images/brands/1.png") }}" alt="sponsor" width="100px"></a>
             </div>
         </div>
     </div>
