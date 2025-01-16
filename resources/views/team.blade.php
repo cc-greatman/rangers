@@ -118,7 +118,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player4.png"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player6.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">JOHN SNOW</a>
