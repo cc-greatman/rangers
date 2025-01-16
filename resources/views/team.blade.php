@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player1.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player4.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">JAHID EMILY</a>
@@ -18,7 +18,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player2.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player5.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">JOHN DOE</a>
@@ -28,7 +28,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player3.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player4.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">LAKATTURA</a>
@@ -38,7 +38,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player4.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player5.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">NICHOLAS</a>
@@ -48,7 +48,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player5.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player1.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">M. ROJO</a>
@@ -58,7 +58,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player6.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player2.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">A. HAKIM</a>
@@ -68,7 +68,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player7.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player3.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">A. DRAGO</a>
@@ -78,7 +78,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player8.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player6.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">ANDREW GOMEZ</a>
@@ -88,7 +88,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player9.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player1.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">M. ROLIN</a>
@@ -98,7 +98,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player10.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player2.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">JIKU</a>
@@ -108,7 +108,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player11.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player3.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">DOMINGO</a>
@@ -118,7 +118,7 @@
             </div>
             <div class="col-xl-3 col-md-4 col-sm-6">
                 <div class="player-single">
-                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player12.jpg"
+                    <a href="javascript:void(0);" class="player-picture"><img src="assets/images/team/player4.png"
                             alt="player-picture"></a>
                     <div class="content">
                         <a href="javascript:void(0);" class="player-name">JOHN SNOW</a>
