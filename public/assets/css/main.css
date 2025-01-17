@@ -13023,6 +13023,7 @@ tr:first-child {
 }
 .feed-blog-item .blog-picture img {
   width: 100%;
+  height: 100%;
 }
 .feed-blog-item .contents {
   position: relative;
