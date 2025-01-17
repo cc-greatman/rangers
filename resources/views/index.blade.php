@@ -403,7 +403,7 @@
                 <div class="swiper-slide">
                     <div class="product-item">
                         <a href="javascript:void(0);" class="product-thumb"><img
-                                src="assets/images/products/product1.png" alt="product-thumb"></a>
+                                src="{{ asset("assets/images/products/product1.png") }}" alt="product-thumb"></a>
                         <div class="contents">
                             <div class="rating-area">
                                 <div class="rating-stars-group">
@@ -425,7 +425,7 @@
                 <div class="swiper-slide">
                     <div class="product-item">
                         <a href="javascript:void(0);" class="product-thumb"><img
-                                src="assets/images/products/product5.png" alt="product-thumb"></a>
+                                src="{{ asset("assets/images/products/product2.png") }}" alt="product-thumb"></a>
                         <div class="contents">
                             <div class="rating-area">
                                 <div class="rating-stars-group">
@@ -452,7 +452,7 @@
                 <div class="swiper-slide">
                     <div class="product-item">
                         <a href="javascript:void(0);" class="product-thumb"><img
-                                src="assets/images/products/product3.png" alt="product-thumb"></a>
+                                src="{{ asset("assets/images/products/product3.png") }}" alt="product-thumb"></a>
                         <div class="contents">
                             <div class="rating-area">
                                 <div class="rating-stars-group">
@@ -479,7 +479,7 @@
                 <div class="swiper-slide">
                     <div class="product-item">
                         <a href="javascript:void(0);" class="product-thumb"><img
-                                src="assets/images/products/product4.png" alt="product-thumb"></a>
+                                src="{{ asset("assets/images/products/product4.png") }}" alt="product-thumb"></a>
                         <div class="contents">
                             <div class="rating-area">
                                 <div class="rating-stars-group">
