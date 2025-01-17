@@ -37,7 +37,7 @@
     <!--================= Main Stylesheet =================-->
     <link rel="stylesheet" type="text/css" href="assets/css/variables/variable1.css">
     <!--================= Main Stylesheet =================-->
-    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset("assets/css/main.css") }}?v={{ filemtime(public_path('assets/css/main.css')) }}">
 </head>
 
 <body>
