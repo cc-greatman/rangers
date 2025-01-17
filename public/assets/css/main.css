@@ -7938,12 +7938,15 @@ tr:first-child {
   transition: transform 400ms;
   transition: transform 400ms, -webkit-transform 400ms;
   width: 100%;
-  height: 320px;
+  height: 100%;
+  object-fit: contain; /* Scale the image to fit inside the div */
 }
 
 @media (max-width:900px) {
     .rts-blog-section .blog-item .blog-picture img {
+        width: 100%;
         height: 100%;
+        object-fit: contain; /* Scale the image to fit inside the div */
     }
 }
 
@@ -7999,10 +8002,12 @@ tr:first-child {
     margin-bottom: 25px;
     width: 100%;
     height: 100%;
+    object-fit: contain; /* Scale the image to fit inside the div */
   }
   .rts-blog-section .blog-item .blog-picture img {
     width: 100%;
     height: 100%;
+    object-fit: contain; /* Scale the image to fit inside the div */
   }
 }
 @media (max-width: 470px) {
@@ -11602,10 +11607,12 @@ tr:first-child {
   .rts-blog-medium .blog-picture {
     width: 100%;
     height: 100%;
+    object-fit: contain; /* Scale the image to fit inside the div */
   }
   .rts-blog-medium .blog-picture img {
     width: 100%;
     height: 100%;
+    object-fit: contain; /* Scale the image to fit inside the div */
   }
 }
 @media (max-width: 470px) {
@@ -13024,11 +13031,13 @@ tr:first-child {
 .feed-blog-item .blog-picture {
   width: 100%;
   height: 100%;
+  object-fit: contain; /* Scale the image to fit inside the div */
   position: relative;
 }
 .feed-blog-item .blog-picture img {
   width: 100%;
   height: 100%;
+  object-fit: contain; /* Scale the image to fit inside the div */
 }
 .feed-blog-item .contents {
   position: relative;
