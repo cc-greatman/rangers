@@ -132,7 +132,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center">
+            <div class="row justify-content-center" style="margin-top: 20px;">
                 <div class="col-xl-4 col-md-6">
                     <div class="blog-item">
                         <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" alt=""></div>
@@ -203,7 +203,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center">
+            <div class="row justify-content-center" style="margin-top: 20px;">
                 <div class="col-xl-12 col-md-12">
                     <div class="blog-item">
                         <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" alt=""></div>
