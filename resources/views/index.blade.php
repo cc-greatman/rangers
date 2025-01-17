@@ -373,7 +373,7 @@
 <!--================= About Section Start Here =================-->
 <div class="rts-about-section">
     <div class="about-inner">
-        <div class="about-thumb"><img src="{{ asset("./assets/images/about/aboutthumb.webp") }}" alt="about-thumb" width="700px" style="height: auto;"></div>
+        <div class="about-thumb"><img src="{{ asset("./assets/images/about/aboutthumb.webp") }}" alt="about-thumb" width="700px"></div>
         <div class="contents">
             <div class="section-title-area section-title-area1 text-start mb--50">
                 <h1 class="section-title"><span class="pretitle">History</span>Rangers F.C</h1>

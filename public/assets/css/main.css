@@ -8128,6 +8128,7 @@ tr:first-child {
   display: flex;
 }
 .rts-about-section .about-inner .about-thumb {
+  margin-top: 20px;
   margin-right: 0;
 }
 .rts-about-section .about-inner .contents {
