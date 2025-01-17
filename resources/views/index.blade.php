@@ -375,11 +375,6 @@
     <div class="about-inner">
         <div class="about-thumb"><img src="{{ asset("./assets/images/about/aboutthumb.webp") }}" alt="about-thumb" width="700px"></div>
         <div class="contents">
-            <div class="section-title-area section-title-area1 text-start mb--50">
-                <h1 class="section-title"><span class="pretitle">History</span>Rangers F.C</h1>
-                <br>
-                <p>Enugu Rangers International are one of the three oldest clubs in Nigeria, the other two being Bendel Insurance and Kano Pillars,and the only Nigerian club never to have been relegated from the Nigeria Premier League.</p>
-            </div>
             <div class="quote-box">
                 <p>Rangers International F.C is a Nigerian professional association football team founded in 1970. Based in Enugu, the Rangers play their home games at the Nnamdi Azikiwe Stadium.</p>
                 <span class="quote-author">Wikipedia</span>
