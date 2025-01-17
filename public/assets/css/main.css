@@ -8129,12 +8129,14 @@ tr:first-child {
 }
 .rts-about-section .about-inner .about-thumb {
   margin-right: 0;
+  margin-bottom: -50px;
 }
 .rts-about-section .about-inner .contents {
   padding: 120px;
   padding-bottom: 0;
 }
 .rts-about-section .about-inner .contents .section-title-area {
+  margin-bottom: 25px;
 }
 .rts-about-section .about-inner .contents .section-title-area .pretitle {
   -webkit-text-fill-color: #111111;
