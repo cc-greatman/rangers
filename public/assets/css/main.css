@@ -8129,7 +8129,6 @@ tr:first-child {
 }
 .rts-about-section .about-inner .about-thumb {
   margin-right: 0;
-  margin-bottom: -50px;
 }
 .rts-about-section .about-inner .contents {
   padding: 120px;
@@ -13605,6 +13604,7 @@ tr:first-child {
   }
   .rts-about-us-section .about-inner .about-picture {
     margin-right: 0;
+    margin-bottom: 30px;
     width: 100%;
   }
   .rts-about-us-section .about-inner .about-picture img {
