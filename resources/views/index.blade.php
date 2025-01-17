@@ -108,6 +108,31 @@
         </div>
         <div class="blog-area">
             <div class="row justify-content-center">
+                <div class="col-xl-12 col-md-12">
+                    <div class="blog-item">
+                        <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" alt=""></div>
+                        <div class="contents-wrapper">
+                            <div class="contents">
+                                <div class="d-block">
+                                    <a href="javascript:void(0);" class="blog-catagory">FOOTBALL</a>
+                                    <a href="javascript:void(0);" class="blog-title">RANGERS STOP RIVERS UNITED, MAINTAIN UNBEATEN STREAK</a>
+                                </div>
+                                <div class="author-info">
+                                    <div class="author-dp"><img src="{{ asset("./assets/images/items/author2.png") }}"
+                                            alt="author-dp"></div>
+                                    <div class="content">
+                                        <a href="javascript:void(0);" class="author-name">Igbokwe Emenike</a>
+                                        <div class="blog-date">
+                                            <div class="date">June 21, 2024</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
                 <div class="col-xl-4 col-md-6">
                     <div class="blog-item">
                         <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" alt=""></div>
@@ -170,6 +195,31 @@
                                         <a href="javascript:void(0);" class="author-name">CLUB DA AUTHOR</a>
                                         <div class="blog-date">
                                             <div class="date">September 16, 2024</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-xl-12 col-md-12">
+                    <div class="blog-item">
+                        <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" alt=""></div>
+                        <div class="contents-wrapper">
+                            <div class="contents">
+                                <div class="d-block">
+                                    <a href="javascript:void(0);" class="blog-catagory">FOOTBALL</a>
+                                    <a href="javascript:void(0);" class="blog-title">RANGERS STOP RIVERS UNITED, MAINTAIN UNBEATEN STREAK</a>
+                                </div>
+                                <div class="author-info">
+                                    <div class="author-dp"><img src="{{ asset("./assets/images/items/author2.png") }}"
+                                            alt="author-dp"></div>
+                                    <div class="content">
+                                        <a href="javascript:void(0);" class="author-name">Igbokwe Emenike</a>
+                                        <div class="blog-date">
+                                            <div class="date">June 21, 2024</div>
                                         </div>
                                     </div>
                                 </div>
