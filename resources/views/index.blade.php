@@ -135,7 +135,7 @@
             <div class="row justify-content-center" style="margin-top: 20px;">
                 <div class="col-xl-4 col-md-6">
                     <div class="blog-item">
-                        <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" alt=""></div>
+                        <div class="blog-picture" style="border-radius: 25px;"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" alt=""></div>
                         <div class="contents-wrapper">
                             <div class="contents">
                                 <div class="d-block">
@@ -158,7 +158,7 @@
                 </div>
                 <div class="col-xl-4 col-md-6">
                     <div class="blog-item">
-                        <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog2.jpg") }}" alt=""></div>
+                        <div class="blog-picture" style="border-radius: 25px;"><img src="{{ asset("./assets/images/blog/blog2.jpg") }}" alt=""></div>
                         <div class="contents-wrapper">
                             <div class="contents">
                                 <div class="d-block">
@@ -181,7 +181,7 @@
                 </div>
                 <div class="col-xl-4 col-md-6">
                     <div class="blog-item">
-                        <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog3.jpg") }}" alt=""></div>
+                        <div class="blog-picture" style="border-radius: 25px;"><img src="{{ asset("./assets/images/blog/blog3.jpg") }}" alt=""></div>
                         <div class="contents-wrapper">
                             <div class="contents">
                                 <div class="d-block">
