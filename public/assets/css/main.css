@@ -8128,7 +8128,6 @@ tr:first-child {
   display: flex;
 }
 .rts-about-section .about-inner .about-thumb {
-  margin-top: 20px;
   margin-right: 0;
 }
 .rts-about-section .about-inner .contents {
@@ -8136,7 +8135,6 @@ tr:first-child {
   padding-bottom: 0;
 }
 .rts-about-section .about-inner .contents .section-title-area {
-  margin-bottom: 25px;
 }
 .rts-about-section .about-inner .contents .section-title-area .pretitle {
   -webkit-text-fill-color: #111111;
