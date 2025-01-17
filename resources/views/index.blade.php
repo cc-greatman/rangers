@@ -110,7 +110,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-12 col-md-12">
                     <div class="blog-item">
-                        <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" style="object-fit: fill;" alt=""></div>
+                        <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" style="object-fit: cover !important;" alt=""></div>
                         <div class="contents-wrapper">
                             <div class="contents">
                                 <div class="d-block">
@@ -206,7 +206,7 @@
             <div class="row justify-content-center" style="margin-top: 20px;">
                 <div class="col-xl-12 col-md-12">
                     <div class="blog-item">
-                        <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" style="object-fit: fill;"alt=""></div>
+                        <div class="blog-picture"><img src="{{ asset("./assets/images/blog/blog1.jpg") }}" style="object-fit: cover !important;"alt=""></div>
                         <div class="contents-wrapper">
                             <div class="contents">
                                 <div class="d-block">
