@@ -12,24 +12,24 @@
                     <h3 class="club-text">EL-KANEMI<BR>
                         RANGERS INTL</H3>
                 </DIV>
-                <span class="match-type">FRIENDLIES</span>
+                <span class="match-type">NFPL MATCH</span>
             </div>
             <div class="match-countdown-area">
                 <div class="countdown">
                     <div class="countdown-el days-c">
-                        <span class="value" id="days">28</span>
+                        <span class="value" id="days">0</span>
                     </div>
                     <span class="letter">D</span>
                     <div class="countdown-el hours-c">
-                        <span class="value" id="hours">40</span>
+                        <span class="value" id="hours">0</span>
                     </div>
                     <span class="letter">H</span>
                     <div class="countdown-el mins-c">
-                        <span class="value" id="mins">12</span>
+                        <span class="value" id="mins">0</span>
                     </div>
                     <span class="letter">M</span>
                     <div class="countdown-el seconds-c">
-                        <span class="value" id="seconds">23</span>
+                        <span class="value" id="seconds">0</span>
                     </div>
                     <span class="letter">S</span>
                 </div>
@@ -596,5 +596,37 @@
     </div>
 </div>
 <!--================= Product-details Section End Here =================-->
+<script>
+    // Target date: January 29, 2025, 3:00 PM WAT
+    const targetDate = new Date("2025-01-29T15:00:00+01:00").getTime();
+
+    function updateCountdown() {
+        const now = new Date().getTime();
+        const difference = targetDate - now;
+
+        if (difference > 0) {
+            const days = Math.floor(difference / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const mins = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((difference % (1000 * 60)) / 1000);
+
+            document.getElementById("days").textContent = days;
+            document.getElementById("hours").textContent = hours;
+            document.getElementById("mins").textContent = mins;
+            document.getElementById("seconds").textContent = seconds;
+        } else {
+            // Timer has expired
+            document.getElementById("days").textContent = "0";
+            document.getElementById("hours").textContent = "0";
+            document.getElementById("mins").textContent = "0";
+            document.getElementById("seconds").textContent = "0";
+        }
+    }
+
+    // Update countdown every second
+    setInterval(updateCountdown, 1000);
+    // Initialize countdown immediately
+    updateCountdown();
+</script>
 
 @include('partials.footer')
