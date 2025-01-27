@@ -34,7 +34,7 @@
                     <span class="letter">S</span>
                 </div>
             </div>
-            <a href="https://seniorbarman.com/event/rangers-intl-vs-el-kanemi" target="_blank" class="ticket-btn">BUY TICKETS</a>
+            <a style="margin-top: 10px;" href="https://seniorbarman.com/event/rangers-intl-vs-el-kanemi" target="_blank" class="ticket-btn">BUY TICKETS</a>
         </div>
     </div>
 </div>
