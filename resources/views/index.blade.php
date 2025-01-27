@@ -9,7 +9,7 @@
             <div class="club-area">
                 <div class="club-logo"><img src="assets/images/items/clubs.png" alt=""></div>
                 <div class="content">
-                    <h3 class="club-text" style="font-size: 14px !important;">EL-KANEMI<BR>
+                    <h3 class="club-text" style="font-size: 60px !important;">EL-KANEMI<BR>
                         RANGERS INTL</H3>
                 </DIV>
                 <span class="match-type">NFPL MATCH</span>
