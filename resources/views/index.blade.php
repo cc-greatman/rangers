@@ -9,7 +9,7 @@
             <div class="club-area">
                 <div class="club-logo"><img src="assets/images/items/clubs.png" alt=""></div>
                 <div class="content">
-                    <h3 class="club-text">EL-KANEMI<BR>
+                    <h3 class="club-text" style="font-size: 14px !important;">EL-KANEMI<BR>
                         RANGERS INTL</H3>
                 </DIV>
                 <span class="match-type">NFPL MATCH</span>
@@ -34,7 +34,7 @@
                     <span class="letter">S</span>
                 </div>
             </div>
-            <a style="margin-top: 10px;" href="https://seniorbarman.com/event/rangers-intl-vs-el-kanemi" target="_blank" class="ticket-btn">BUY TICKETS</a>
+            <a style="margin-top: 20px;" href="https://seniorbarman.com/event/rangers-intl-vs-el-kanemi" target="_blank" class="ticket-btn">BUY TICKETS</a>
         </div>
     </div>
 </div>
