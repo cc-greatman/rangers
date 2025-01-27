@@ -610,16 +610,17 @@
             const mins = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
             const seconds = Math.floor((difference % (1000 * 60)) / 1000);
 
-            document.getElementById("days").textContent = days;
-            document.getElementById("hours").textContent = hours;
-            document.getElementById("mins").textContent = mins;
-            document.getElementById("seconds").textContent = seconds;
+            // Add leading zeros for single digits
+            document.getElementById("days").textContent = String(days).padStart(2, "0");
+            document.getElementById("hours").textContent = String(hours).padStart(2, "0");
+            document.getElementById("mins").textContent = String(mins).padStart(2, "0");
+            document.getElementById("seconds").textContent = String(seconds).padStart(2, "0");
         } else {
             // Timer has expired
-            document.getElementById("days").textContent = "0";
-            document.getElementById("hours").textContent = "0";
-            document.getElementById("mins").textContent = "0";
-            document.getElementById("seconds").textContent = "0";
+            document.getElementById("days").textContent = "00";
+            document.getElementById("hours").textContent = "00";
+            document.getElementById("mins").textContent = "00";
+            document.getElementById("seconds").textContent = "00";
         }
     }
 
