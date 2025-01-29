@@ -285,12 +285,12 @@
                         <span class="match-date">Feburary 16, 2025</span>
                         <div class="match-scores">
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" alt="">
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="50px" height="50px" alt="">
                                 <span class="club-name">Rangers intl</span>
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/remo.png") }}" class="score-number" alt="">
+                                <img src="{{ asset("./assets/images/matches/remo.png") }}" class="score-number"  width="50px" height="50px" alt="">
                                 <span class="club-name">Remo Stars</span>
                             </div>
                         </div>
