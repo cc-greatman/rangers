@@ -345,20 +345,62 @@
                 </div>
                 <div class="swiper-slide col-item">
                     <div class="match-single">
-                        <span class="match-date">PLAYOFF, JULY 21</span>
+                        <span class="match-date">March 2, 2025. 4PM</span>
                         <div class="match-scores">
                             <div class="club">
-                                <h2 class="score-number">01</h2>
-                                <span class="club-name">REAL M.</span>
+                                <img src="{{ asset("./assets/images/matches/kano.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <span class="club-name">Kano Pillars</span>
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <h2 class="score-number">03</h2>
-                                <span class="club-name">HEMILTON H.</span>
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number"  width="65px" height="65px" alt="">
+                                <span class="club-name">Rangers Intl</span>
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="javascript:void(0);" class="review-link smry">SUMMARY</a>
+                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">GET TICKETS</a>
+                            <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
+                                    class="review-link vdo">VIDEO</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide col-item">
+                    <div class="match-single">
+                        <span class="match-date">March 9, 2025. 4PM</span>
+                        <div class="match-scores">
+                            <div class="club">
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <span class="club-name">Rangers Intl</span>
+                            </div>
+                            <div class="colon">:</div>
+                            <div class="club">
+                                <img src="{{ asset("./assets/images/matches/awka.png") }}" class="score-number"  width="65px" height="65px" alt="">
+                                <span class="club-name">Akwa United</span>
+                            </div>
+                        </div>
+                        <div class="match-review">
+                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">GET TICKETS</a>
+                            <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
+                                    class="review-link vdo">VIDEO</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide col-item">
+                    <div class="match-single">
+                        <span class="match-date">March 16, 2025. 4PM</span>
+                        <div class="match-scores">
+                            <div class="club">
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <span class="club-name">Rangers Intl</span>
+                            </div>
+                            <div class="colon">:</div>
+                            <div class="club">
+                                <img src="{{ asset("./assets/images/matches/kwara.png") }}" class="score-number"  width="65px" height="65px" alt="">
+                                <span class="club-name">Kwara United</span>
+                            </div>
+                        </div>
+                        <div class="match-review">
+                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">GET TICKETS</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
