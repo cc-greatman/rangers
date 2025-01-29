@@ -253,7 +253,7 @@
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">Get Tickets</a>
+                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">GET TICKETS</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
@@ -274,7 +274,7 @@
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">Get Tickets</a>
+                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">GET TICKETS</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
@@ -295,7 +295,7 @@
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">Get Tickets</a>
+                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">GET TICKETS</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
@@ -303,20 +303,20 @@
                 </div>
                 <div class="swiper-slide col-item">
                     <div class="match-single">
-                        <span class="match-date">PLAYOFF, JULY 21</span>
+                        <span class="match-date">Feburary 19, 2025. 4PM</span>
                         <div class="match-scores">
                             <div class="club">
-                                <h2 class="score-number">01</h2>
-                                <span class="club-name">REAL M.</span>
+                                <img src="{{ asset("./assets/images/matches/abia.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <span class="club-name">Abia Warriors</span>
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <h2 class="score-number">03</h2>
-                                <span class="club-name">HEMILTON H.</span>
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number"  width="65px" height="65px" alt="">
+                                <span class="club-name">Rangers intl</span>
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="javascript:void(0);" class="review-link smry">SUMMARY</a>
+                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">GET TICKETS</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
@@ -324,20 +324,20 @@
                 </div>
                 <div class="swiper-slide col-item">
                     <div class="match-single">
-                        <span class="match-date">PLAYOFF, JULY 21</span>
+                        <span class="match-date">Feburary 23, 2025. 4PM</span>
                         <div class="match-scores">
                             <div class="club">
-                                <h2 class="score-number">01</h2>
-                                <span class="club-name">REAL M.</span>
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <span class="club-name">Rangers Intl</span>
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <h2 class="score-number">03</h2>
-                                <span class="club-name">HEMILTON H.</span>
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number"  width="65px" height="65px" alt="">
+                                <span class="club-name">Sunshine Stars</span>
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="javascript:void(0);" class="review-link smry">SUMMARY</a>
+                            <a href="https://seniorbarman.com/rangers/" class="review-link smry">GET TICKETS</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
