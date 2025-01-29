@@ -240,20 +240,20 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide col-item">
                     <div class="match-single">
-                        <span class="match-date">PLAYOFF, JULY 21</span>
+                        <span class="match-date">Feb 2, 2025</span>
                         <div class="match-scores">
                             <div class="club">
-                                <h2 class="score-number">01</h2>
-                                <span class="club-name">REAL M.</span>
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" alt="">
+                                <span class="club-name">Rangers Int'l</span>
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <h2 class="score-number">03</h2>
-                                <span class="club-name">HEMILTON H.</span>
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" alt="">
+                                <span class="club-name">Ikorodu City</span>
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="blog-details.html" class="review-link smry">SAMMARY</a>
+                            <a href="javascript:void(0);" class="review-link smry">SUMMARY</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
@@ -274,7 +274,7 @@
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="blog-details.html" class="review-link smry">SAMMARY</a>
+                            <a href="javascript:void(0);" class="review-link smry">SUMMARY</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
@@ -295,7 +295,7 @@
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="blog-details.html" class="review-link smry">SUMMARY</a>
+                            <a href="javascript:void(0);" class="review-link smry">SUMMARY</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
@@ -316,7 +316,7 @@
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="blog-details.html" class="review-link smry">SUMMARY</a>
+                            <a href="javascript:void(0);" class="review-link smry">SUMMARY</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
@@ -337,7 +337,7 @@
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="blog-details.html" class="review-link smry">SAMMARY</a>
+                            <a href="javascript:void(0);" class="review-link smry">SUMMARY</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
@@ -358,7 +358,7 @@
                             </div>
                         </div>
                         <div class="match-review">
-                            <a href="blog-details.html" class="review-link smry">SAMMARY</a>
+                            <a href="javascript:void(0);" class="review-link smry">SUMMARY</a>
                             <div class="play-btn play-video"><a href="https://www.youtube.com/watch?v=G4t6TqG5LM8"
                                     class="review-link vdo">VIDEO</a></div>
                         </div>
