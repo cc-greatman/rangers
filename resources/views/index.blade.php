@@ -243,12 +243,12 @@
                         <span class="match-date">Feburary 2, 2025</span>
                         <div class="match-scores">
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" alt="">
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers Int'l</span>
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/ikorodu.png") }}" class="score-number" alt="">
+                                <img src="{{ asset("./assets/images/matches/ikorodu.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Ikorodu City</span>
                             </div>
                         </div>
@@ -264,12 +264,12 @@
                         <span class="match-date">Feburary 9, 2025</span>
                         <div class="match-scores">
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/bayelsa.png") }}" class="score-number" alt="">
+                                <img src="{{ asset("./assets/images/matches/bayelsa.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Bayelsa United</span>
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" alt="">
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers Intl</span>
                             </div>
                         </div>
@@ -285,12 +285,12 @@
                         <span class="match-date">Feburary 16, 2025</span>
                         <div class="match-scores">
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="50px" height="50px" alt="">
+                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers intl</span>
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/remo.png") }}" class="score-number"  width="50px" height="50px" alt="">
+                                <img src="{{ asset("./assets/images/matches/remo.png") }}" class="score-number"  width="65px" height="65px" alt="">
                                 <span class="club-name">Remo Stars</span>
                             </div>
                         </div>
