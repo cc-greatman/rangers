@@ -332,7 +332,7 @@
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number"  width="65px" height="65px" alt="">
+                                <img src="{{ asset("./assets/images/matches/sunshine.png") }}" class="score-number"  width="65px" height="65px" alt="">
                                 <span class="club-name">Sunshine Stars</span>
                             </div>
                         </div>
