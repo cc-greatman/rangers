@@ -251,10 +251,10 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide col-item">
                     <div class="match-single">
-                        <span class="match-date">Feburary 2, 2025</span>
+                        <span class="match-date">Feburary 2, 2025. 4PM</span>
                         <div class="match-scores">
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <img src="{{ asset("./assets/images/matches/ranger.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers Int'l</span>
                             </div>
                             <div class="colon">:</div>
@@ -272,7 +272,7 @@
                 </div>
                 <div class="swiper-slide col-item">
                     <div class="match-single">
-                        <span class="match-date">Feburary 9, 2025</span>
+                        <span class="match-date">Feburary 9, 2025. 4PM</span>
                         <div class="match-scores">
                             <div class="club">
                                 <img src="{{ asset("./assets/images/matches/bayelsa.png") }}" class="score-number" width="65px" height="65px" alt="">
@@ -280,7 +280,7 @@
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <img src="{{ asset("./assets/images/matches/ranger.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers Intl</span>
                             </div>
                         </div>
@@ -293,10 +293,10 @@
                 </div>
                 <div class="swiper-slide col-item">
                     <div class="match-single">
-                        <span class="match-date">Feburary 16, 2025</span>
+                        <span class="match-date">Feburary 16, 2025. 4PM</span>
                         <div class="match-scores">
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <img src="{{ asset("./assets/images/matches/ranger.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers intl</span>
                             </div>
                             <div class="colon">:</div>
@@ -322,7 +322,7 @@
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number"  width="65px" height="65px" alt="">
+                                <img src="{{ asset("./assets/images/matches/ranger.png") }}" class="score-number"  width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers intl</span>
                             </div>
                         </div>
@@ -338,7 +338,7 @@
                         <span class="match-date">Feburary 23, 2025. 4PM</span>
                         <div class="match-scores">
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <img src="{{ asset("./assets/images/matches/ranger.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers Intl</span>
                             </div>
                             <div class="colon">:</div>
@@ -364,7 +364,7 @@
                             </div>
                             <div class="colon">:</div>
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number"  width="65px" height="65px" alt="">
+                                <img src="{{ asset("./assets/images/matches/ranger.png") }}" class="score-number"  width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers Intl</span>
                             </div>
                         </div>
@@ -380,7 +380,7 @@
                         <span class="match-date">March 9, 2025. 4PM</span>
                         <div class="match-scores">
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <img src="{{ asset("./assets/images/matches/ranger.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers Intl</span>
                             </div>
                             <div class="colon">:</div>
@@ -401,7 +401,7 @@
                         <span class="match-date">March 16, 2025. 4PM</span>
                         <div class="match-scores">
                             <div class="club">
-                                <img src="{{ asset("./assets/images/matches/rangers.png") }}" class="score-number" width="65px" height="65px" alt="">
+                                <img src="{{ asset("./assets/images/matches/ranger.png") }}" class="score-number" width="65px" height="65px" alt="">
                                 <span class="club-name">Rangers Intl</span>
                             </div>
                             <div class="colon">:</div>
