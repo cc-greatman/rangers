@@ -9,8 +9,8 @@
             <div class="club-area">
                 <div class="club-logo"><img src="assets/images/items/clubs.png" alt=""></div>
                 <div class="content">
-                    <h3 class="club-text" style="font-size: 35px !important;">EL-KANEMI<BR>
-                        RANGERS INTL</H3>
+                    <h3 class="club-text" style="font-size: 35px !important;">RANGERS INTL<BR>
+                        IKORODU CITY</H3>
                 </DIV>
                 <span class="match-type">NFPL MATCH</span>
             </div>
@@ -651,7 +651,7 @@
 <!--================= Product-details Section End Here =================-->
 <script>
     // Target date: January 29, 2025, 3:00 PM WAT
-    const targetDate = new Date("2025-01-29T15:00:00+01:00").getTime();
+    const targetDate = new Date("2025-02-03T16:00:00+01:00").getTime();
 
     function updateCountdown() {
         const now = new Date().getTime();
