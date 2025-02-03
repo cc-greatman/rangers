@@ -66,41 +66,74 @@
                                 <h4 class="player-name">Remo Stars FC</h4>
                             </div>
                         </td>
-                        <td><span class="match-count">20</span></td>
-                        <td><span class="win-count">12</span></td>
-                        <td><span class="draw-count">39</span></td>
+                        <td><span class="match-count">22</span></td>
+                        <td><span class="win-count">14</span></td>
+                        <td><span class="draw-count">45</span></td>
                     </tr>
                     <tr>
                         <td><span class="position-number">02</span></td>
                         <td>
                             <div class="player-name-area">
-                                <h4 class="player-name">Rivers United FC</h4>
+                                <h4 class="player-name">Shooting Stars Sports Club (3SC)</h4>
                             </div>
                         </td>
-                        <td><span class="match-count">20</span></td>
+                        <td><span class="match-count">21</span></td>
                         <td><span class="win-count">7</span></td>
-                        <td><span class="draw-count">34</span></td>
+                        <td><span class="draw-count">37</span></td>
                     </tr>
                     <tr>
                         <td><span class="position-number">03</span></td>
                         <td>
                             <div class="product-title-area">
-                                <h4 class="player-name">Shooting Stars Sports Club (3SC)</h4>
+                                <h4 class="player-name">Rivers United FC</h4>
                             </div>
                         </td>
-                        <td><span class="match-count">19</span></td>
+                        <td><span class="match-count">22</span></td>
                         <td ><span class="win-count">5</span></td>
+                        <td><span class="draw-count">35</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="position-number">04</span></td>
+                        <td>
+                            <div class="player-name-area">
+                                <h4 class="player-name">Abia Warriors</h4>
+                            </div>
+                        </td>
+                        <td><span class="match-count">22</span></td>
+                        <td><span class="win-count"> -2 </span></td>
                         <td><span class="draw-count">33</span></td>
                     </tr>
+                    <tr>
+                        <td><span class="position-number">05</span></td>
+                        <td>
+                            <div class="player-name-area">
+                                <h4 class="player-name">El-Kanemi Warriors</h4>
+                            </div>
+                        </td>
+                        <td><span class="match-count">20</span></td>
+                        <td><span class="win-count">2</span></td>
+                        <td><span class="draw-count">32</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="position-number">06</span></td>
+                        <td>
+                            <div class="product-title-area">
+                                <h4 class="player-name">Ikorodu City FC</h4>
+                            </div>
+                        </td>
+                        <td><span class="match-count">21</span></td>
+                        <td ><span class="win-count">7</span></td>
+                        <td><span class="draw-count">31</span></td>
+                    </tr>
                     <tr style="background-color: #e41b23 !important;">
-                        <td style="background-color: #e41b23 !important;"><span class="position-number" style="color: #fff !important;">04</span></td>
+                        <td style="background-color: #e41b23 !important;"><span class="position-number" style="color: #fff !important;">07</span></td>
                         <td style="background-color: #e41b23 !important;">
                             <div class="product-title-area">
                                 <h4 class="player-name" style="color: #fff !important;">Rangers F.C.</h4>
                             </div>
                         </td>
-                        <td style="background-color: #e41b23 !important;"><span class="match-count" style="color: #fff !important;">20</span></td>
-                        <td style="background-color: #e41b23 !important;"><span class="win-count" style="color: #fff !important;">6</span></td>
+                        <td style="background-color: #e41b23 !important;"><span class="match-count" style="color: #fff !important;">21</span></td>
+                        <td style="background-color: #e41b23 !important;"><span class="win-count" style="color: #fff !important;">5</span></td>
                         <td style="background-color: #e41b23 !important;"><span class="draw-count" style="color: #fff !important;">31</span></td>
                     </tr>
                 </tbody>
